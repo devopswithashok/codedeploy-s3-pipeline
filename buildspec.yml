@@ -3,7 +3,7 @@ version: 0.2
 phases:
   install:
     commands:
-    - - echo "This is install phases"
+    - echo "This is install phases"
   Pre_build:
     commands:
     - echo "This is Pre Build phases"
